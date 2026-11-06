@@ -70,10 +70,10 @@ Technologies: HTML, CSS, JavaScript
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mugheesiqbal&theme=tokyonight&hide_border=true" />
 </p>
-<!-- <p align="center">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mugheesiqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugheesiqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-</p> -->
+</p> 
 
 🔥 Contribution Streak
 
